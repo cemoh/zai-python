@@ -5,5 +5,4 @@ This is an early stage project to build a Python 3.10+ wrapper for the [Zai API]
 
 ## Contributing
 
-This is a work in progress and PRs are welcome. Please read the 
-[contributing guide](.github/CONTRIBUTING.md).
+This is a work in progress and PRs are welcome. It is a very early stage project.
